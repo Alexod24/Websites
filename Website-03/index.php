@@ -11,10 +11,11 @@
                         <span>Emprecemos con tu asesoria ahora mismo</span>
                         <h2>Consultas Legales <br /> a Tu Alcance</h2>
                         <a href="#" class="primary-btn">Generar Consulta</a>
+                        <a href="#" class="segundo-btn" >Consultar mi caso</a>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <img src="img/model.png" alt="">
+                    <img src="" alt="">
                 </div>
             </div>
         </div>

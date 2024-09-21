@@ -63,7 +63,7 @@
                         <li><a href="#">Contacto</a></li>
                     </ul>
                 </nav>
-                <a href="#" class="primary-btn top-btn">  Iniciar Sesion  <i class="fa fa-user"></i></a> 
+                <a href="http://localhost:3000/admin" class="primary-btn top-btn" target="_blank">  Iniciar Sesion  <i class="fa fa-user"></i></a> 
             </div>
             <div id="mobile-menu-wrap"></div>
         </div>
